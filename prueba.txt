@@ -1,1 +1,2 @@
 pruebas
+luego de new branch con git checkout -b
